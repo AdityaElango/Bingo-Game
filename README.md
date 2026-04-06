@@ -23,5 +23,3 @@ A console-based Bingo game developed in C that allows two players to create cust
   - stdio.h
   - stdlib.h
   - time.h
-
-## 📂 File Structure
